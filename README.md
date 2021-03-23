@@ -1,3 +1,3 @@
 # snakeGame
 python version of the snake game
-![alt text](http://url/to/img.png)
+![alt d](https://github.com/sayuru1/snakeGame/blob/master/snakeGame.jpg)
