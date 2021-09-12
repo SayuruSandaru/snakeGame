@@ -2,4 +2,5 @@
 Popular arcade game called snake game written from python using the Turtle package.
 
 ---
-![alt d](https://github.com/sayuru1/snakeGame/blob/master/snakeGame.jpg)
+
+![snakegame](https://user-images.githubusercontent.com/28390211/132969792-f8fb3f3b-8b2d-4992-b9c7-c9dcd697d552.jpg)
